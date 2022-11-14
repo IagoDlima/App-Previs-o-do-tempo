@@ -1,7 +1,7 @@
 Previsão do tempo.
 
 Esse App foi criado através do consumo da API: Open Weather Map.
-E consiste em um container com um campo de busca da Localidade do usuário, onde retorna os dados da API de: 
+E consiste em um container com um campo de busca para o usuário, onde retorna os dados da API de: 
  * Local
  * País
  * Temperatura
